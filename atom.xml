@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://4nanjiang.github.io</id>
     <title>Nanjiang</title>
-    <updated>2022-03-31T15:45:07.778Z</updated>
+    <updated>2022-04-01T16:00:22.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://4nanjiang.github.io"/>
     <link rel="self" href="https://4nanjiang.github.io/atom.xml"/>
@@ -11,6 +11,13 @@ A personal blog record my Action, Vision and Value.</subtitle>
     <logo>https://4nanjiang.github.io/images/avatar.png</logo>
     <icon>https://4nanjiang.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Nanjiang</rights>
+    <entry>
+        <title type="html"><![CDATA[为自我写作需要有对问题的连续性]]></title>
+        <id>https://4nanjiang.github.io/post/n0RmxGbRL/</id>
+        <link href="https://4nanjiang.github.io/post/n0RmxGbRL/">
+        </link>
+        <updated>2022-04-01T15:58:27.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[与自我和解的解药]]></title>
         <id>https://4nanjiang.github.io/post/1yiTGqcIP/</id>

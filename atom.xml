@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://4nanjiang.github.io</id>
     <title>Nanjiang</title>
-    <updated>2022-04-03T14:19:42.934Z</updated>
+    <updated>2022-04-05T15:49:57.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://4nanjiang.github.io"/>
     <link rel="self" href="https://4nanjiang.github.io/atom.xml"/>
@@ -11,6 +11,20 @@ A personal blog record my Action, Vision and Value.</subtitle>
     <logo>https://4nanjiang.github.io/images/avatar.png</logo>
     <icon>https://4nanjiang.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Nanjiang</rights>
+    <entry>
+        <title type="html"><![CDATA[脑力赚钱]]></title>
+        <id>https://4nanjiang.github.io/post/jnQCZGXoN/</id>
+        <link href="https://4nanjiang.github.io/post/jnQCZGXoN/">
+        </link>
+        <updated>2022-04-05T15:49:09.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不过多讨论方法]]></title>
+        <id>https://4nanjiang.github.io/post/RPVzGrV6N/</id>
+        <link href="https://4nanjiang.github.io/post/RPVzGrV6N/">
+        </link>
+        <updated>2022-04-04T15:48:23.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[快速迭代 > 累计时长]]></title>
         <id>https://4nanjiang.github.io/post/8WScUxuXM/</id>
@@ -66,19 +80,5 @@ A personal blog record my Action, Vision and Value.</subtitle>
         <link href="https://4nanjiang.github.io/post/7dDIMXxLI/">
         </link>
         <updated>2022-03-27T14:00:23.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[另一种方法，差不多先生]]></title>
-        <id>https://4nanjiang.github.io/post/another-way/</id>
-        <link href="https://4nanjiang.github.io/post/another-way/">
-        </link>
-        <updated>2022-03-26T15:58:45.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何写每日博文？]]></title>
-        <id>https://4nanjiang.github.io/post/how-to-write-a-daily-blog-post/</id>
-        <link href="https://4nanjiang.github.io/post/how-to-write-a-daily-blog-post/">
-        </link>
-        <updated>2022-03-25T13:43:29.000Z</updated>
     </entry>
 </feed>
